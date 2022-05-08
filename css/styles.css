@@ -1,0 +1,88 @@
+body {
+  background-color: black;
+}
+
+table {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+hr {
+  border-color: white;
+  border-style: dotted none none none;
+  width: 20%;
+  border-width: 7px;
+}
+
+.numberBox {
+  background-color: #969696;
+  text-align: center;
+  font-size: 40px;
+  font-weight: bold;
+  width: 50px;
+  height: 50px;
+}
+
+.numberInput {
+  background-color: #969696;
+  text-align: center;
+  font-size: 40px;
+  font-weight: bold;
+  width: 125px;
+  height: 75px;
+}
+
+.operatorBox {
+  background-color: skyblue;
+  text-align: center;
+  font-size: 40px;
+  font-weight: bold;
+  width: 50px;
+  height: 50px;
+}
+
+.operatorInput {
+  background-color: skyblue;
+  text-align: center;
+  font-size: 25px;
+  font-weight: bold;
+  width: 100px;
+  height: 25px;
+}
+
+.equalBox {
+  background-color: black;
+  color: white;
+  text-align: center;
+  font-size: 40px;
+  font-weight: bold;
+  width: 50px;
+  height: 50px;
+}
+
+ .correctBox {
+   background-color: green;
+   text-align: center;
+   font-size: 40px;
+   font-weight: bold;
+   width: 50px;
+   height: 50px;
+ }
+
+ .semiCorrectBox {
+   background-color: yellow;
+   text-align: center;
+   font-size: 40px;
+   font-weight: bold;
+   width: 50px;
+   height: 50px;
+ }
+
+ .incorrectBox {
+   background-color: #4b4b4b;
+   text-align: center;
+   font-size: 40px;
+   font-weight: bold;
+   width: 50px;
+   height: 50px;
+ }
